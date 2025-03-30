@@ -27,5 +27,3 @@ elif random_number == 9:
   answer = 'Very doubtful'
 else:
   answer = 'Error'
-  
-print('Magic 8 Ball:  ' + answer)
